@@ -9,10 +9,7 @@
 }
 
 body {
-    background-color: #CBD7E5;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
+    background-color: hsl(212, 45%, 89%);
 }
 
 main {
@@ -38,7 +35,7 @@ main {
 h1 {
     font-family: 'Outfit Bold', 'Arial';
     font-size: 1.5rem;
-    color: black;
+    color: hsl(218, 44%, 22%);
     text-align: center;
 }
 
